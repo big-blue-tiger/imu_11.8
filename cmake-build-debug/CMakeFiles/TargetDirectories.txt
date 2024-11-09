@@ -1,0 +1,3 @@
+D:/code/stm/rm_study_october/IMU_2/cmake-build-debug/CMakeFiles/IMU_2.elf.dir
+D:/code/stm/rm_study_october/IMU_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code/stm/rm_study_october/IMU_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
